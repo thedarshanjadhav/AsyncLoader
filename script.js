@@ -1,4 +1,4 @@
-// 
+// Async Loader
 const addItem = async (item) => {
     await randomDelay();
     let div = document.createElement('div')
